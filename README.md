@@ -14,7 +14,7 @@ Goal :
 
 Task :
 
-        🇬🇧 Create a PHP file that displays:
+            Create a PHP file that displays:
 
             A dynamic greeting based on the hour
             5am–11am → Good morning
